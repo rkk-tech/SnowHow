@@ -11,8 +11,8 @@ SnowHow
 ## Summary
 
 Optimizing the streets to be first cleared out of snow and in which order.
-Based on trafic data, distance between streets with high traffic, households on streets, previous trafic accidents or injuries if reported data available-
-Other valid information
+Based on trafic data, distance between streets with high traffic, households on streets, previous trafic accidents or injuries if reported data available +
+other information
 
 ## Background
 Yearly problem
