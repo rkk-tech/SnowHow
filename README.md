@@ -44,7 +44,7 @@ Where does your data come from? Do you collect it yourself or do you use data co
 If you need to use links, here's an example:
 
 Road traffic, Open data from Finnish roads
-(https://www.digitraffic.fi/en/road-traffic/)
+[Difi Traffic] (https://www.digitraffic.fi/en/road-traffic/)
 
 
 | Syntax      | Description |
