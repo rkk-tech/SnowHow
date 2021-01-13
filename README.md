@@ -1,5 +1,5 @@
 # SnowHow
-Snowplowing
+Snowplowing, Maintenance
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -19,14 +19,14 @@ Previous trafic accidents or injuries if reported data available
 
 ## Background
 Yearly problem
-On winters big amount of snow rains in shor period of time.
+
+on winters big amount of snow rains in shor period of time.
 
 Prioritise the order and necessity of cleaning streets and appointing maintenance machinery to certain area.
-Creating maps and street view for machinery which to clear first and in which order.
-Optimizing maintenance and reducing accidents and injuries
-
-Yearly problem
-
+Creating maps and street prioritazion for machinery for which areas to be cleared first and in which order.
+Optimizing maintenance work
+Reducing accidents and injuries
+Reducing trafic jams
 
 This is how you make a list, if you need one:
 * problem 1
@@ -39,6 +39,7 @@ This is how you make a list, if you need one:
 Users 
 Maintenance Work planning 
 Snowplowing machinery and operators
+Trafic planners
 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
@@ -96,6 +97,4 @@ How could your project grow and become something even more? What kind of skills,
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
