@@ -27,13 +27,7 @@ This is how you make a list, if you need one:
 
 
 ## How is it used?
-
-Users 
-Maintenance Work planning 
-Snowplowing machinery and operators
-Trafic planners
-
-
+Users are maintenance work planning , snowplowing machinery and operators, trafic planners
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 This is how you create code examples:
@@ -52,17 +46,17 @@ If you need to use links, here's an example:
 | Paragraph   | Text        |
 
 ## Challenges
-
+Predictability is diofficult
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
-
 Coding accintance, lead and ideas to get the project flying.
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
 
-
 ## Acknowledgments
-
+* Winter
+* Elderly
+* Solving real life problems
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * etc
