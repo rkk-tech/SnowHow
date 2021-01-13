@@ -40,12 +40,11 @@ This is how you create code examples:
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-
 Road traffic, Open data from Finnish roads
 ![Difi Traffic] (https://www.digitraffic.fi/en/road-traffic/)
 
+Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+If you need to use links, here's an example:
 
 | Syntax      | Description |
 | ----------- | ----------- |
