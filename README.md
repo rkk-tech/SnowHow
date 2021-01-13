@@ -1,18 +1,15 @@
 # SnowHow
 Snowplowing, Maintenance
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+Optimizing the streets to be first cleared out of snow and in which order.
+Based on trafic data, distance between streets with high traffic, households on streets, previous trafic accidents or injuries and other open data available.
 
 # Project Title
 
 SnowHow
 
 ## Summary
-
 Optimizing the streets to be first cleared out of snow and in which order.
 Based on trafic data, distance between streets with high traffic, households on streets, previous trafic accidents or injuries and other open data available.
-
 ## Background
 Yearly problem
 
