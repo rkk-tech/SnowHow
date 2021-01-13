@@ -20,7 +20,7 @@ Previous trafic accidents or injuries if reported data available
 ## Background
 Yearly problem
 
-on winters big amount of snow rains in short period of time.
+On winters when big amount of snow rains in short period of time.
 
 Prioritise the order and necessity of cleaning streets and appointing maintenance machinery to certain area.
 Creating maps and street prioritazion for machinery for which areas to be cleared first and in which order.
