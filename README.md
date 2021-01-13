@@ -1,7 +1,6 @@
 # SnowHow
 Snowplowing, Maintenance
-Optimizing the streets to be first cleared out of snow and in which order.
-Based on trafic data, distance between streets with high traffic, households on streets, previous trafic accidents or injuries and other open data available.
+Building AI course project
 
 # Project Title
 
