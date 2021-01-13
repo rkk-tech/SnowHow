@@ -1,6 +1,6 @@
-# SnowHow
+<!--SnowHow
 Snowplowing, Maintenance
-Building AI course project
+Building AI course project-->
 
 # Project Title
 
